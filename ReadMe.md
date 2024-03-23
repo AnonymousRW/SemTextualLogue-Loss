@@ -8,8 +8,8 @@
 	
 ### To run the generation model with different loss functions:
 
-Please go in respective folders and run the files. 
-
+	Please go in respective folders and run the files. 
+ 
 	a. CE: bash CE.sh
 	b. CE with Sentence Semantic: bash Weighted_semantic_ce.sh
 	c. Weighted CE: bash weighted_semantic_context_ce.sh
