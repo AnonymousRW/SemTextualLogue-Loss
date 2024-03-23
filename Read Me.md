@@ -4,7 +4,7 @@
 
 ### Activate conda environment after installation by using the command:
 
-	conda activate environment
+	conda activate SemTextual_Logue
 	
 ### To run the generation model with different loss functions:
 

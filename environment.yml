@@ -1,4 +1,4 @@
-name: environment
+name: SemTextual_Logue
 channels:
   - huggingface
   - pytorch
@@ -165,4 +165,3 @@ dependencies:
     - threadpoolctl==3.1.0
     - tokenizers==0.12.1
     - torchtext==0.11.0
-prefix: /home/muhammed_1901cs38/anaconda3/envs/dd1
